@@ -1,0 +1,12 @@
+#ifndef _main_h_
+#define _main_h_
+
+/**
+ * _putchar - the only function that prints a character in this project
+ * @c : character to check
+ * Return: return 1 if success and 0 is not
+ */
+int _putchar(char c);
+
+
+#endif /* main_h */
